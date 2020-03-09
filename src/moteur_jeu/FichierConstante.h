@@ -1,0 +1,14 @@
+#ifndef __FICHIER_CONSTANTE_HEADERFILE__
+#define __FICHIER_CONSTANTE_HEADERFILE__
+
+#define STRING_MAX_CHAR 250
+#define JOUEUR_1 0
+#define JOUEUR_2 1
+#define JOUEUR_IA JOUEUR_1
+
+#define ETAT_JOUER_CVSC 1
+#define ETAT_JOUER_VS_IA 2
+
+
+
+#endif
